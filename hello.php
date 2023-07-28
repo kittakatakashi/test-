@@ -1,5 +1,5 @@
 <?php
-    echo "Hello!";
+    echo "こんにちは!";
     echo "Hello!";
     echo "Hello!";
     echo "Hello!";
